@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VqiRU/fHxR4TRoD+PqfeTmDsMfF3H1pRVVrqIO0SErP8xjwTNGLqL/ADwZ8Duq1rUiOwe8H7HG5ldoKM96mQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иван\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Иван\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
